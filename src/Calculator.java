@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
-
+        System.out.println("Welcom from calculator");
     Scanner input=new Scanner(System.in);
     Processes_method proses= new Processes_method();
 
